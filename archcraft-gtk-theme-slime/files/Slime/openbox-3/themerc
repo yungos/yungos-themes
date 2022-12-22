@@ -138,8 +138,8 @@ menu.items.text.color: #404040
 menu.items.disabled.text.color: #909090
 
 menu.items.active.bg: Flat Solid
-menu.items.active.bg.color: #FFFFFF
-menu.items.active.text.color: #EC1850
+menu.items.active.bg.color: #D5D5D5
+menu.items.active.text.color: #404040
 menu.items.active.disabled.text.color: #FFFFFF
 
 #-- OSD Settings -------------------------------------------------

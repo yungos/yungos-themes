@@ -121,9 +121,9 @@ window.inactive.button.toggled.hover.image.color: #00BCD4
 
 #-- Close Button -------------------------------------------------
 window.active.button.close.pressed.image.color: #00BCD4
-window.active.button.close.hover.image.color: #FF5252
+window.active.button.close.hover.image.color: #EC7875
 window.inactive.button.close.pressed.image.color: #00BCD4
-window.inactive.button.close.hover.image.color: #FF5252
+window.inactive.button.close.hover.image.color: #EC7875
 
 #-- Menu ---------------------------------------------------------
 menu.title.bg: Flat Solid
@@ -138,8 +138,8 @@ menu.items.text.color: #C4C7C5
 menu.items.disabled.text.color: #C4C7C5
 
 menu.items.active.bg: Flat Solid
-menu.items.active.bg.color: #222D32
-menu.items.active.text.color: #EC407A
+menu.items.active.bg.color: #00BCD4
+menu.items.active.text.color: #222D32
 menu.items.active.disabled.text.color: #222D32
 
 #-- OSD Settings -------------------------------------------------
